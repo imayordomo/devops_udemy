@@ -14,7 +14,7 @@ https://docs.docker.com/engine/install/ubuntu/
 ```bash
 sudo groupadd docker
 sudo usermod -aG docker $USER
-```
+```erwefrwersdfdf
 
 > Puede ser necesario cerrar sesión y volver a entrar para que los cambios surtan efecto.
 
