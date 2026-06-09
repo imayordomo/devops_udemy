@@ -5,7 +5,6 @@
 Documentación oficial:
 
 https://docs.docker.com/engine/install/ubuntu/
-
 ---
 
 ## 2. Configuración inicial
